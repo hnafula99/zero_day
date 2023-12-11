@@ -1,0 +1,1 @@
+Prints kernel name
